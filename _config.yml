@@ -63,7 +63,7 @@ plugins:
 #
 # for me, this line reads:
 # https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
-staticman_url: https://https://staticman-vi2a.onrender.com/v2/entry/ExtremeMemes/ExtremeMemes.github.io/main/comments
+staticman_url: https://staticman-vi2a.onrender.com/v2/entry/ExtremeMemes/ExtremeMemes.github.io/main/comments
 
 reCaptcha:
     siteKey: 6LfWsLAlAAAAAOU4eLVlN7Gx-auPQNJWnAIYuwqx
