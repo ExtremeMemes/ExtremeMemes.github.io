@@ -1,0 +1,36 @@
+---
+---
+
+// eat IDE errors from front-matter dashes
+#x {--x:0}
+
+// you can use the light and dark vars (which are set the opposite way in the dark theme)
+// to implement crude conditional styles for embedded <style> elements, among others
+:root {
+    --dark: 0;
+    --light: 1;
+}
+
+// rules can use ld-select to choose between light and dark options
+@function ld-select($light, $dark) { @return $light; }
+
+// this import contains my own local skin-dependent vars
+@import "classic-vars";
+@import "minima/skins/classic";
+@import "minima/initialize";
+
+// a11y contrast fixes
+.highlight {
+    .mf, .mh, .mi, .mo {
+        color: #007878;
+    }
+    .cm, .cp, .c1, .cs {
+        color: #6d6d60;
+    }
+    .nb {
+        color: #00749b;
+    }
+    .nv {
+        color: #007878;
+    }
+}
