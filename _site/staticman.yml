@@ -13,7 +13,7 @@ comments:
   #
   # Name of the branch being used. Must match the one sent in the URL of the
   # request.
-  branch: master
+  branch: main
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
   commitMessage: "Comment from {fields.name} on {options.slug}"
@@ -77,6 +77,6 @@ comments:
     email: md5
 
   reCaptcha:
-    enabled: true
+    enabled: false
     siteKey: 6LfWsLAlAAAAAOU4eLVlN7Gx-auPQNJWnAIYuwqx
-    secret: n6+g5eslw1hocN1KVWCbv3zqhHeqlSS8KQsUoXS9kdsQs2Lj8uwdMwfxeUl2V16iQ5nQyvX1N4TtFQpOVae7fkDJ6cxI16VbIQPjDvNqbBHLmYtXdTfqsbPtQ8/30OTxuAz3iKY22/lmkDHne3yRV+AinXkKEdtwGfzx2ct9nld2QidpRvChN5dFtsE6aqSFc2KwM/s6zx+ti1VB88a87aKU0iZAYtRJMSaBRBsusfkQGaYS9Gy0EHQyP4KjnhC8HAjTUiEl+O2tEu2iHziO8GrUbWQv6TjX9dTnmSIkAyzD5r6A+7GYuYjbfPeHOEZegEe8LIi8b8cTU9BmX8Vrmk+UNuE3JMGIjd5VCX2TAbZo1vXJTg+/1RV/QtjCXKwB+fvTRj2r8BY3sOAwFdKGpi/xoaFwpzoIUuzDNVUhm17iuQfBuIQzil1uWB0g4q31Y2WgC+fzmKHA6MmmoYMEr/x19N6eywY7F/kQ8BDrg8b9jXVGn1pNCf2CL+RCwze5qO7qmzc9ryzy5OoHn5lizBbEvZAC6pjNdWKZIBAqhEVy8oaGrHrDf+cAyucaDraxMKrzRLRs+kfk8dvJVdZmOT+SrQNgU9ME1/m9KQ5bvXsa8nCROvAoPUNtYjkJl0TsnPK1OUo7SDfz7hDPl7O0J0r9T4YhiUdLOkb32/UutOs=
+    secret: EfNYAu+S6UR+T8QxEjfsRPXG43dT0cXgbDr2B3n8kaYsopMT2H5kLZe0CzDO8xVle8JW+a+YwcJ8x1xy8/Wr5sE20x+x8sQt9+ZvqGIRcMJh8GcAnpv8Jy0xCh3STs7td2lnp0Yj/JUobRn+ovYfZ6WVqiNH167cDQ7fM5tUcFhAziO/6D03H53yThjTfYoGD809bCgN86S85QS36I+QwDTq2qF9481mnJEwbCjSZalb1tuyArSR5MoTB8WD4daZDQz6Gsr7CcP2VeW0QKUmHFHKpoqAFwsrSL2fTSxyu90rSRp8RUCQssWVEV2x3DSUK4B+rvNV43fDPw27sttb7RJgohr/VL1Rizvqosq+pb1Pvi58z2kuMt9YilG7ZqLz4/DLbIJzEX56bM2iPPykC23a/OQNt2pZgJNJVBZRxEkNCjvfn0bP5M9SarPKNgOyITAVWrwPu234X0bP2AZXXVK2bEDDj0IyDsEVdLhzMjvQNSFhUM0pt2F3XgB8cbOneerNiEam/SlXo2QOJhrOwnEfGkWsWumXZntxUV3zXslH4catKxBVZe9VbpDsMgJ54deBpJahZA3vPZmSNLxE/khb7969z1urRuSglddXbl+T09fYuCJEiZpXLvJHUgd39vSLh2p7GeVJzsLP+9N+CkTcwvkalllQLLOYX+dY6hw=
