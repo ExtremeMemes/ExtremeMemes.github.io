@@ -3,8 +3,16 @@
 
 @import "minima";
 @import "minima/initialize";
-@import "minima/skins/auto";
+@import "minima/_base";
+@import "minima/_layout";
+@import "minima/custom-styles";
+@import "minima/custom-variables";
+
 @import "minima/skins/classic";
+@import "minima/skins/solarized";
+
 @import "classic-vars";
+
+
 @import "comment-styles";
 @import "tab-styles";
