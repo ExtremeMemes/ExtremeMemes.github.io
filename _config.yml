@@ -27,12 +27,12 @@ url: "https://extreme-memes.eu.org" # the base hostname & protocol for your site
 twitter_username: ExtremeMemesYT
 github_username:  ExtremeMemes
 
+permalink: /:categories/:year/:month/:day/:title/
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
 sass:
     sass_dir: _sass
 # Exclude from processing.

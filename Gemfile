@@ -34,3 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 #gem 'jekyll-manager', "~> 0.1.1", group: :jekyll_plugins
 gem 'jekyll-sitemap'
+gem 'jekyll-compose', group: [:jekyll_plugins]
