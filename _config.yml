@@ -29,7 +29,7 @@ github_username:  ExtremeMemes
 
 permalink: /:categories/:year/:month/:day/:title/
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
