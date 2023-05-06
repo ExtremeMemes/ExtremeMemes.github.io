@@ -67,6 +67,8 @@ sass:
 # https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
 staticman_url: https://staticman-vi2a.onrender.com/v2/entry/ExtremeMemes/ExtremeMemes.github.io/main/comments
 
+analytics: true
+
 reCaptcha:
     enabled: true
     siteKey: "6LfWsLAlAAAAAOU4eLVlN7Gx-auPQNJWnAIYuwqx"
