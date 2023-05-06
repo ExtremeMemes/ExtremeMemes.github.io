@@ -8,6 +8,7 @@ extreme-memes.eu.org is the main link for this website.
 - [Jekyll](jekyllrb.com) is the framework of this blog
 - [Staticman (SelfHosted Version, see the code here)](https://staticman.net/) is used for my comment system (Hosted on render, no data stored there, it just flows through https://dashboard.render.com)
 - [Google ReCaptcha](https://www.google.com/recaptcha/about) is used for preventing spam comments
+- [Umami Analytics (SelfHosted)](https://umami.is) is used for me to understand how many people view this website
 
 
 ## Thanks/Credits
